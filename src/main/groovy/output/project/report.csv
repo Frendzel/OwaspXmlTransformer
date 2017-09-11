@@ -1,0 +1,66 @@
+/org/apache/activemq/activemq-broker/5.10.0/activemq-broker-5.10.0.jar
+/org/apache/activemq/activemq-openwire-legacy/5.10.0/activemq-openwire-legacy-5.10.0.jar
+/org/apache/activemq/activemq-client/5.10.0/activemq-client-5.10.0.jar
+/org/apache/activemq/activemq-jms-pool/5.10.0/activemq-jms-pool-5.10.0.jar
+/org/apache/activemq/activemq-camel/5.10.0/activemq-camel-5.10.0.jar
+;;CVE-2014-3612;;High;;The LDAPLoginModule implementation in the Java Authentication and Authorization Service (JAAS) in Apache ActiveMQ 5.x before 5.10.1 allows remote attackers to bypass authentication by logging in with an empty password and valid username, which triggers an unauthenticated bind. NOTE: this identifier has been SPLIT per ADT2 due to different vulnerability types. See CVE-2015-6524 for the use of wildcard operators in usernames.;;stet-adapter,hce-microservices,hce,epay,
+/org/apache/activemq/activemq-spring/5.10.0/activemq-spring-5.10.0.jar
+/org/apache/activemq/activemq-broker/5.10.0/activemq-broker-5.10.0.jar
+/org/apache/activemq/activemq-openwire-legacy/5.10.0/activemq-openwire-legacy-5.10.0.jar
+/org/apache/activemq/activemq-client/5.10.0/activemq-client-5.10.0.jar
+/org/apache/activemq/activemq-jms-pool/5.10.0/activemq-jms-pool-5.10.0.jar
+/org/apache/activemq/activemq-camel/5.10.0/activemq-camel-5.10.0.jar
+;;CVE-2015-5254;;High;;Apache ActiveMQ 5.x before 5.13.0 does not restrict the classes that can be serialized in the broker, which allows remote attackers to execute arbitrary code via a crafted serialized Java Message Service (JMS) ObjectMessage object.;;stet-adapter,hce-microservices,hce,epay,
+/org/apache/camel/camel-core/2.14.0/camel-core-2.14.0.jar
+;;CVE-2015-5344;;High;;The camel-xstream component in Apache Camel before 2.15.5 and 2.16.x before 2.16.1 allow remote attackers to execute arbitrary commands via a crafted serialized Java object in an HTTP request.;;stet-adapter,hce-microservices,hce,epay,
+/org/apache/activemq/activemq-openwire-legacy/5.10.0/activemq-openwire-legacy-5.10.0.jar
+/org/apache/activemq/activemq-jms-pool/5.10.0/activemq-jms-pool-5.10.0.jar
+/org/apache/activemq/activemq-camel/5.10.0/activemq-camel-5.10.0.jar
+;;CVE-2016-3088;;High;;The Fileserver web application in Apache ActiveMQ 5.x before 5.14.0 allows remote attackers to upload and execute arbitrary files via an HTTP PUT followed by an HTTP MOVE request.;;stet-adapter,hce-microservices,hce,epay,
+/org/apache/cxf/cxf-rt-bindings-soap/3.0.1/cxf-rt-bindings-soap-3.0.1.jar
+/org/apache/cxf/cxf-rt-wsdl/3.0.1/cxf-rt-wsdl-3.0.1.jar
+/org/apache/cxf/cxf-core/3.1.0/cxf-core-3.1.0.jar
+/org/apache/cxf/cxf-rt-transports-http-jetty/3.0.5/cxf-rt-transports-http-jetty-3.0.5.jar
+/org/apache/cxf/cxf-core/3.0.5/cxf-core-3.0.5.jar
+/org/apache/cxf/cxf-rt-features-clustering/3.0.1/cxf-rt-features-clustering-3.0.1.jar
+/org/apache/cxf/cxf-rt-frontend-jaxrs/3.0.5/cxf-rt-frontend-jaxrs-3.0.5.jar
+/org/apache/cxf/cxf-rt-ws-addr/3.0.5/cxf-rt-ws-addr-3.0.5.jar
+/org/apache/cxf/cxf-rt-frontend-jaxws/3.0.5/cxf-rt-frontend-jaxws-3.0.5.jar
+/org/apache/cxf/cxf-rt-frontend-simple/3.0.1/cxf-rt-frontend-simple-3.0.1.jar
+/org/apache/cxf/cxf-rt-rs-security-oauth/3.0.1/cxf-rt-rs-security-oauth-3.0.1.jar
+/org/apache/cxf/cxf-rt-rs-extension-providers/3.1.0/cxf-rt-rs-extension-providers-3.1.0.jar
+/org/apache/cxf/cxf-rt-rs-extension-providers/3.0.5/cxf-rt-rs-extension-providers-3.0.5.jar
+/org/apache/cxf/cxf-rt-frontend-simple/3.0.5/cxf-rt-frontend-simple-3.0.5.jar
+/org/apache/cxf/cxf-rt-ws-policy/3.0.5/cxf-rt-ws-policy-3.0.5.jar
+/org/apache/cxf/cxf-rt-frontend-jaxws/3.0.1/cxf-rt-frontend-jaxws-3.0.1.jar
+/org/apache/cxf/cxf-rt-ws-policy/3.0.1/cxf-rt-ws-policy-3.0.1.jar
+/org/apache/cxf/cxf-rt-rs-client/3.0.5/cxf-rt-rs-client-3.0.5.jar
+/org/apache/cxf/cxf-rt-transports-http/3.0.5/cxf-rt-transports-http-3.0.5.jar
+/org/apache/cxf/cxf-rt-transports-http/3.1.0/cxf-rt-transports-http-3.1.0.jar
+/org/apache/cxf/cxf-rt-bindings-xml/3.0.1/cxf-rt-bindings-xml-3.0.1.jar
+/org/apache/cxf/cxf-rt-rs-service-description/3.0.5/cxf-rt-rs-service-description-3.0.5.jar
+/org/apache/cxf/cxf-rt-bindings-xml/3.0.5/cxf-rt-bindings-xml-3.0.5.jar
+/org/apache/cxf/cxf-rt-ws-addr/3.0.1/cxf-rt-ws-addr-3.0.1.jar
+/org/apache/cxf/cxf-rt-databinding-jaxb/3.0.1/cxf-rt-databinding-jaxb-3.0.1.jar
+/org/apache/cxf/cxf-rt-rs-client/3.1.0/cxf-rt-rs-client-3.1.0.jar
+;;CVE-2016-8739;;High;;The JAX-RS module in Apache CXF prior to 3.0.12 and 3.1.x prior to 3.1.9 provides a number of Atom JAX-RS MessageBodyReaders. These readers use Apache Abdera Parser which expands XML entities by default which represents a major XXE risk.;;hce-cc-gateway,stet-adapter,hce-microservices,hce,epay,
+/com/typesafe/akka/akka-camel_2.11/2.4.0/akka-camel_2.11-2.4.0.jar
+/com/typesafe/akka/akka-cluster_2.11/2.4.0/akka-cluster_2.11-2.4.0.jar
+/com/typesafe/akka/akka-persistence_2.11/2.4.0/akka-persistence_2.11-2.4.0.jar
+/com/typesafe/akka/akka-actor_2.10/2.3.11/akka-actor_2.10-2.3.11.jar
+/com/typesafe/akka/akka-actor_2.11/2.4.0/akka-actor_2.11-2.4.0.jar
+/com/twitter/chill-akka_2.11/0.5.2/chill-akka_2.11-0.5.2.jar
+/com/typesafe/akka/akka-slf4j_2.11/2.4.0/akka-slf4j_2.11-2.4.0.jar
+/com/typesafe/akka/akka-contrib_2.11/2.4.0/akka-contrib_2.11-2.4.0.jar
+/com/typesafe/akka/akka-slf4j_2.10/2.3.11/akka-slf4j_2.10-2.3.11.jar
+/com/oberthur/akka/akka-persistent-scheduler_2.11/0.3.7-OT/akka-persistent-scheduler_2.11-0.3.7-OT.jar
+/com/typesafe/akka/akka-cluster-sharding_2.11/2.4.0/akka-cluster-sharding_2.11-2.4.0.jar
+/io/kamon/kamon-akka-remote_2.11/0.3.5/kamon-akka-remote_2.11-0.3.5.jar
+/com/typesafe/akka/akka-protobuf_2.11/2.4.0/akka-protobuf_2.11-2.4.0.jar
+/com/typesafe/akka/akka-remote_2.10/2.3.11/akka-remote_2.10-2.3.11.jar
+/com/typesafe/akka/akka-cluster-tools_2.11/2.4.0/akka-cluster-tools_2.11-2.4.0.jar
+/com/github/krasserm/akka-persistence-cassandra_2.11/0.6.2-OT/akka-persistence-cassandra_2.11-0.6.2-OT.jar
+/com/typesafe/akka/akka-remote_2.11/2.4.0/akka-remote_2.11-2.4.0.jar
+;;CVE-2017-1000034;;High;;Akka versions <=2.4.16 and 2.5-M1 are vulnerable to a java deserialization attack in its Remoting component resulting in remote code execution in the context of the ActorSystem.;;hce,epay,
+/org/apache/camel/camel-core/2.14.0/camel-core-2.14.0.jar
+;;CVE-2017-3159;;High;;Apache Camel's camel-snakeyaml component is vulnerable to Java object de-serialization vulnerability. De-serializing untrusted data can lead to security flaws.;;stet-adapter,hce-microservices,hce,epay,
