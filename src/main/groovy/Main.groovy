@@ -4,5 +4,5 @@
  * @author merbel
  */
 
-XmlReader reader = new XmlReader(92)
+XmlReader reader = new XmlReader(94)
 reader.readDependencyChecks()
